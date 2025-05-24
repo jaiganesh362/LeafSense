@@ -79,3 +79,7 @@ This dataset contains 38 different classes of plant diseases, with over 20,000 i
 
 ![Screenshot 2025-05-18 152139](https://github.com/user-attachments/assets/5fbe6804-9a94-4875-b009-0de2cbf28ac5)
 
+
+
+![Screenshot 2025-05-18 151927](https://github.com/user-attachments/assets/dbafc40d-e043-4270-b494-39b32258b4ac)
+
