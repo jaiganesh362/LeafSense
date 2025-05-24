@@ -74,3 +74,8 @@ The model is designed to be trained on the Plant Disease dataset from Kaggle:
 [Plant Disease dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 
 This dataset contains 38 different classes of plant diseases, with over 20,000 images.
+
+
+
+![Screenshot 2025-05-18 152139](https://github.com/user-attachments/assets/5fbe6804-9a94-4875-b009-0de2cbf28ac5)
+
